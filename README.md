@@ -25,8 +25,7 @@
 </p>
 
 ### ✨ Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/henru-matthis-05ab32341/)) 
 
 <!---
 HenruMatthis/HenruMatthis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
